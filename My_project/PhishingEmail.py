@@ -33,7 +33,7 @@ nltk.download('omw-1.4')
 #         "Your monthly invoice is ready. Please find attached.",
 #         "Your bank account has been compromised. Verify your identity now!",
 #         "Reminder: Your appointment with Dr. Smith is scheduled for next week."
-#     ],
+#     
 #     'label': [1, 0, 1, 0, 1, 0]
 # }
 df=pd.read_csv('spam.csv')
