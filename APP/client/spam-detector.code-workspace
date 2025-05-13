@@ -1,0 +1,16 @@
+{
+    "folders": [
+      {"path": "server"},
+      {"path": "client"}
+    ],
+    "settings": {
+      "python.pythonPath": "server/venv/bin/python",
+      "editor.formatOnSave": true,
+      "files.exclude": {
+        "**/.git": true,
+        "**/.DS_Store": true,
+        "server/venv": true,
+        "client/node_modules": true
+      }
+    }
+  }
